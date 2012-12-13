@@ -1,7 +1,16 @@
-fuelphp_excel
-=============
+FuelPHP - PHPExcel Package
+==========================
 
-PHPExcel Library for FuelPHP
+PHPExcel Library for FuelPHP framework.
+
+Usage
+=====
+<pre>
+	Package::load("excel");
+	$excel = new PHPExcel();
+	// After here, you can use PHPExcel
+</pre>
+
 
 Documentation
 =============
